@@ -1,6 +1,6 @@
 ### Hi there I'm Aline Machado!
 
-I am a software developer and a perpetual student in the field of technology. I am passionate about creating technological solutions that have a positive social impact on people's lives. That's why I am developing "Respira, não pira!" — something that in English would be "Breathe, Don't Freak Out!".That's a REST API aimed at teaching breathing techniques to individuals as a way to improve their quality of life.
+I am a software developer and a perpetual student in the field of technology. I am passionate about creating technological solutions that have a positive social impact on people's lives. That's why I am developing "Respira, não pira!" — something that in English would be "Breathe, Don't Freak Out!". That's a REST API aimed at teaching breathing techniques to individuals as a way to improve their quality of life.
 
 
 
