@@ -1,6 +1,6 @@
 ### Hi there I'm Aline Machado!
 
-Full Stack Developer
+Software Developer
 
 
 
