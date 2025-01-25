@@ -4,8 +4,6 @@ I am a software developer and a perpetual student in the field of technology. I 
 
 
 
-![alinemach's stats](https://github-readme-stats.vercel.app/api?username=alinemach&theme=shadow_red&show_icons=true)
-
 ## Skills
 
 <div style="display: inline_block"><br>
